@@ -1,0 +1,44 @@
+*{ background-color:#F8F4E1;}
+
+#stopwatch {
+    text-align: center;
+    margin-top: 100px;
+    
+}
+
+#time {
+    text-align: center;
+    font-size: 48px;
+    font-weight: bold;
+    margin-bottom: 30px;
+    color:#74512D;
+}
+
+button {
+    text-align: center;
+    font-size: 18px;
+    padding: 10px 20px;
+    margin: 0 10px;
+    color:#74512D;
+}
+h1{
+    text-align:center;
+    margin-top:30px;
+    font-size:90px;
+    font-weight:bold;
+    margin-bottom:50px;
+    color:#543310;
+    background-color: #AF8F6F;
+}
+#laps {
+    text-align: center;
+    margin-top: 20px;
+}
+#laps li {
+    list-style: none;
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+}
+#laps li:last-child {
+    border-bottom: none;
+}
