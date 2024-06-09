@@ -1,1 +1,2 @@
 # Prodigy-Infotech
+Will gain hands-on experience by contributing to real-world projects and tackling tasks assigned to me, elevating my understanding. Encapsulated within this internship is the promise of exploring front-end and back-end development, mastering responsive and user-friendly interfaces, and delving into server-side logic and database integration. With each challenge I overcome, I will become a proficient and versatile web developer, equipped to tackle the ever-evolving digital landscape.
